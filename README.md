@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
  "cells": [
   {
@@ -79,3 +80,7 @@
  "nbformat": 4,
  "nbformat_minor": 2
 }
+=======
+# DMML-Project
+This is the repository of the project.
+>>>>>>> 8d6f1afffaa61e8d5de1c3bebe0af620ffb07bea
