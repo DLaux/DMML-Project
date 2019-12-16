@@ -11,8 +11,7 @@ Semester project by Team Tissot:
 Professor: **VLACHOS** Michalis
 
 ## About the project
-In this Notebook, we will present you the reasons that can influence - positively or negatively - a restaurant's rating on Yelp.
-
+The business problem we chose to study is the prediction of restaurants ratings. Having notice that reviews being often biased, we wanted to adress a data mining and machine learning problem to analyse the impact of the different variables on restaurant ratings. Our aim is to study the potential correlations of features for a restaurant's rating and the comparison of different techniques.
 ## Structure Project
 
 
@@ -45,5 +44,6 @@ Here is a short explanation of the main features of this dataset :
 ### /document
 In this folder you can find: 
   
-***project-instructions.pdf***: contains the instructions for the project
+***project-instructions.pdf***: contains the instructions for the project  
+
 ***Project-Main.pdf***: pdf version of the main notebook of the project
