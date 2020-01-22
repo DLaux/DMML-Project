@@ -47,3 +47,7 @@ In this folder you can find:
 ***project-instructions.pdf***: contains the instructions for the project  
 
 ***Project-Main.pdf***: pdf version of the main notebook of the project
+
+### Video
+
+Our video is available on youtube by the following link: https://youtu.be/Ly7VEcCTke4
